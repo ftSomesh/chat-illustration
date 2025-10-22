@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-* **Solution URL:** [https://www.frontendmentor.io/solutions/chat-app-css-illustration](https://www.frontendmentor.io/solutions/chat-app-css-illustration)
+* **Solution URL:** [https://github.com/ftsomesh/chat-illustration](https://github.com/ftsomesh/chat-illustration)
 * **Live Site URL:** [https://ftsomesh.github.io/chat-illustration](https://ftsomesh.github.io/chat-illustration)
 
 ---
